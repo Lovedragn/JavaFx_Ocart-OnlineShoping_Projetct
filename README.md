@@ -7,5 +7,5 @@ How to run it:
       #  To run the application make sure to install Java SDK & JavaFx
       #  Run the commands in cmd prompt where the folder is saved.
       #  Put the commands one by one given in as.txt file.
-      # Now it will work.
+      #  Now it will work.
       
